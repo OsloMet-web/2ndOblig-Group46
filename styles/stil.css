@@ -11,3 +11,8 @@ border-radius: 2px;
 border-style: solid;
 }
 
+.button:hover{
+    background-color: blue;
+    color: white;
+}
+
