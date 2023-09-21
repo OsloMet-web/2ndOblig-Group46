@@ -5,13 +5,13 @@ body{
     font-size: 18px;
 }
 
-.button{
+button{
 cursor: pointer;
 border-radius: 2px;
 border-style: solid;
 }
 
-.button:hover{
+button:hover{
     background-color: blue;
     color: white;
 }
