@@ -5,6 +5,9 @@ body{
 .students{
     font-size: 18px;
 }
+#orange{
+    color:rgb(247, 135, 37);
+}
 
 button{
 cursor: pointer;
