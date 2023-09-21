@@ -2,6 +2,7 @@ body{
     background-color: lightgrey;
     font-family: Arial, Helvetica, sans-serif;
     width: 700px;
+    text-decoration: none;
 }
 .students{
     font-size: 18px;
