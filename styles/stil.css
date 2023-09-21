@@ -11,7 +11,7 @@ body{
     color:rgb(247, 135, 37);
 }
 
-button{
+.button{
 cursor: pointer;
 border-radius: 2px;
 border-style: solid;
