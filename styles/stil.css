@@ -12,7 +12,8 @@ border-style: solid;
 }
 
 button:hover{
-    background-color: blue;
+    background-color: rgba(128, 128, 128, 0.532);
     color: white;
+    transition: background-color 1s, color 1s;
 }
 
